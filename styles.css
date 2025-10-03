@@ -97,6 +97,7 @@ a, a:hover, a:visited, a:active{
     font-weight: bold;
     min-width: 100px;
     color: #34495e;
+            margin-right: 8px;
 }
 
 .jadwal-section {
@@ -151,5 +152,6 @@ a, a:hover, a:visited, a:active{
 .kosong {
     background-color: #ffebee;
 }
+
 
 
