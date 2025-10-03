@@ -1,3 +1,21 @@
+@media (max-width: 768px) {
+            .profiles-container {
+                grid-template-columns: 1fr;
+            }
+            
+            h1 {
+                font-size: 2rem;
+            }
+
+            .jadwal-table {
+                font-size: 14px;
+            }
+            
+            .jadwal-th, .jadwal-td {
+                padding: 8px;
+            }
+}
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
