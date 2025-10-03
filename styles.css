@@ -109,7 +109,7 @@ a, a:hover, a:visited, a:active{
 }
         
 .jadwal-container {
-    max-width: 1000px;
+    /* max-width: 1000px; */
     margin: 0 auto;
     background: white;
     padding: 20px;
@@ -153,6 +153,7 @@ a, a:hover, a:visited, a:active{
 .kosong {
     background-color: #ffebee;
 }
+
 
 
 
