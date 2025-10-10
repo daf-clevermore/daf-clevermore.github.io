@@ -1,0 +1,21 @@
+body {
+    background-color: darkcyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+a, a:active, a:hover, a:visited {
+    text-decoration: none;
+}
+
+a, a:visited {
+    color: white;
+}
+
+a:hover {
+    color: cyan;
+}
